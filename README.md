@@ -1,9 +1,9 @@
 👨‍🎓Student Management System👨‍🎓
 
-💥
+🎨
 Usage: 
-Spring libraries
-Lombok
-Thymeleaf
-MySQL Database
-💥
+- Spring libraries
+- Lombok
+- Thymeleaf
+- MySQL Database
+🎨
